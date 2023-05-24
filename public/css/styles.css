@@ -6,6 +6,7 @@
     font-family: Roboto;
 }
 
+/** Visualización para dispositivos móviles **/
 .container{
     background-color: #EAC926;
 }
