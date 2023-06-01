@@ -39,4 +39,3 @@ Again<br />
 Esta canción durará por simpre<br />
 Como los discos<br />
 Uh-uh, la canción sin fin<br />
-# Todos los que tienen un metro cuadrado de poder se vuelven, en algún momento, impertinentes
